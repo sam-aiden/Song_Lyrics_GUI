@@ -37,19 +37,7 @@ This is a Python-based graphical user interface (GUI) application that allows us
 ## API Reference:
 - **Lyrics.ovh API**: This is a free API to fetch song lyrics.
 
-## Example:
-![GUI Screenshot](example_screenshot.png)
-
-## License:
-This project is licensed under the MIT License.
-"""
-
-# Write the content to a README.md file
-with open("README.md", "w") as readme_file:
-    readme_file.write(readme_content)
-
-
-# Song_Lyrics_GUI
+## Output 
 
 
 ![Screenshot 2024-09-22 205634](https://github.com/user-attachments/assets/ad7c4d31-123c-4e92-b7cd-4c8452fd9208)
