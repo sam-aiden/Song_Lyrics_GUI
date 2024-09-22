@@ -1,4 +1,4 @@
-"""
+
 # Song Lyrics Extractor GUI
 
 ## Project Overview:
